@@ -18,15 +18,14 @@ Please do not:
 
 The project is called **LuckPerms**. Referring to it as **LP** for short is ok too.
 
-The following names are incorrect:
+All other names or derivations are incorrect, including (but not limited to):
+
 * LuckyPerms
 * LuckoPerms
 * LuckPerm
 * LuckPermission
 * LuckPermissions
 * LucksPerm
-* LickPerms
-* LuckyCharms
 
 ## Colors
 
