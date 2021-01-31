@@ -27,6 +27,7 @@ The following names are incorrect:
 * LucksPerm
 * LickPerms
 * LuckyCharms
+* permanent luck
 
 ## Colors
 
